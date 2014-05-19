@@ -14,6 +14,14 @@
 
 @implementation ABViewController
 
+/**
+ *  Starts the game
+ *
+ *  @param sender sender
+ */
+- (IBAction)startGame:(id)sender {
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
